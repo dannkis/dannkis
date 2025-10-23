@@ -40,12 +40,12 @@ A lightweight desktop application that helps hospitality businesses **create, ma
 
 ## 🎓 Education
 
-**Queen Mary University of London**  
+** Queen Mary University of London 
 - *MSc Advanced Electronic & Electrical Engineering* (Sep 2025 – Present)  
 - *BSc (Hons) Computer Science — First Class* (Sep 2022 – Jul 2025)  
   > Key Coursework: Computer Graphics, Computer Systems, Web Technology, Big Data Processing, Logic & Discrete Structures, Security Engineering, Neural Networks & Deep Learning, Compilers.
 
-**Exeter College** *(Sep 2020 – Apr 2022)*  
+** Exeter College** *(Sep 2020 – Apr 2022)*  
 A Levels: Computer Science (B), English Language (A), Mathematics (B)  
 > Combined technical and linguistic studies, developing both analytical and communication skills.  
 > Key topics: Algorithms, C# Development, Systems & Networks, English Linguistics.

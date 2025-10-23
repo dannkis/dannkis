@@ -1,7 +1,7 @@
 # 👋 Hi, there!
 # I'm Daniil Zhelyazkov.
 
-🎓 MSc Advanced Electronic & Electrical Engineering (Queen Mary University of London)  
+🎓 MSc Advanced Electronic & Electrical Engineering (Queen Mary University of London) Student
 💻 BSc (Hons) Computer Science — First Class  
 📍 London, UK  
 📧 [daniilzhelyazkov@gmail.com](mailto:daniilzhelyazkov@gmail.com)  

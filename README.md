@@ -40,7 +40,7 @@ A lightweight desktop application that helps hospitality businesses **create, ma
 
 ## 🎓 Education
 
-** Queen Mary University of London 
+** Queen Mary University of London*
 - *MSc Advanced Electronic & Electrical Engineering* (Sep 2025 – Present)  
 - *BSc (Hons) Computer Science — First Class* (Sep 2022 – Jul 2025)  
   > Key Coursework: Computer Graphics, Computer Systems, Web Technology, Big Data Processing, Logic & Discrete Structures, Security Engineering, Neural Networks & Deep Learning, Compilers.

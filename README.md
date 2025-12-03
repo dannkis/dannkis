@@ -1,8 +1,7 @@
 # 👋 Hi, there!
 # I'm Daniil Zhelyazkov.
 
-🎓 MSc Advanced Electronic & Electrical Engineering (Queen Mary University of London) Student
-💻 BSc (Hons) Computer Science — First Class  
+🎓 BSc (Hons) Computer Science Graduate — First Class  
 📍 London, UK  
 📧 [daniilzhelyazkov@gmail.com](mailto:daniilzhelyazkov@gmail.com)  
 
@@ -41,7 +40,6 @@ A lightweight desktop application that helps hospitality businesses **create, ma
 ## 🎓 Education
 
 **Queen Mary University of London**  
-- *MSc Advanced Electronic & Electrical Engineering* (Sep 2025 – Present)  
 - *BSc (Hons) Computer Science — First Class* (Sep 2022 – Jul 2025)  
 > **Key Coursework:** Computer Graphics, Computer Systems, Web Technology, Big Data Processing, Logic & Discrete Structures, Security Engineering, Neural Networks & Deep Learning, Compilers.
 
@@ -73,7 +71,6 @@ Supervised and directed teams to optimize performance, lead operations, and ensu
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced Electronic & Electrical Engineering
 - AI-driven front-end development using **LLM APIs and micro-frontends**
 - Embedded systems design with **ESP32, Arduino, and sensor calibration**
 
